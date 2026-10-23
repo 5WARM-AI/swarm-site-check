@@ -1,0 +1,27 @@
+{
+  "id": "SYNTHETIC-0001",
+  "database_specific": {
+    "severity": "HIGH"
+  },
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "npm",
+        "name": "n8n"
+      },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1.2.4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

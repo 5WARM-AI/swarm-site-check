@@ -1,0 +1,8 @@
+{
+  "name": "swarm-site-check",
+  "owner": {"name": "Swarm", "url": "https://5warm.ai"},
+  "metadata": {"description": "Free, open-source tools from Swarm."},
+  "plugins": [
+    {"name": "site-check", "source": "./", "description": "Passive website hygiene checks with an independent second opinion."}
+  ]
+}

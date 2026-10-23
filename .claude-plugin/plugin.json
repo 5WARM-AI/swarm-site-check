@@ -1,0 +1,10 @@
+{
+  "name": "site-check",
+  "version": "1.1.1",
+  "description": "A passive website hygiene check with live OSV matching and an independent evidence review.",
+  "author": {"name": "Swarm", "url": "https://5warm.ai"},
+  "homepage": "https://5warm.ai/guides/site-check/",
+  "repository": "https://github.com/5WARM-AI/swarm-site-check",
+  "license": "MIT",
+  "keywords": ["website", "security", "passive", "hygiene"]
+}

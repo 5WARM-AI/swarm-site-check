@@ -1,0 +1,30 @@
+[
+  [
+    "Server",
+    "nginx/1.26.3 (Ubuntu)"
+  ],
+  [
+    "X-Powered-By",
+    "Next.js"
+  ],
+  [
+    "Strict-Transport-Security",
+    "max-age=31536000"
+  ],
+  [
+    "Content-Security-Policy",
+    "default-src 'self'; frame-ancestors 'none'"
+  ],
+  [
+    "Set-Cookie",
+    "session=synthetic-cookie; Secure; HttpOnly; SameSite=Lax"
+  ],
+  [
+    "Set-Cookie",
+    "analytics=synthetic-cookie; Path=/"
+  ],
+  [
+    "X-Unrecognized",
+    "synthetic-value-never-retained"
+  ]
+]
